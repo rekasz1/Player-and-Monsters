@@ -1,0 +1,15 @@
+{
+  "name": "the-player",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.4.3"
+  },
+  "dependencies": {
+    "vite-plugin-restart": "0.0.2"
+  }
+}

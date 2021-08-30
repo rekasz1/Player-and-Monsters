@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#app {
+  width: 604px;
+  height: 604px;
+  border: 2px solid red;
+  position: relative;
+  margin: 0 auto;
+}
+
+.player { 
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(212, 175, 175);
+} 
